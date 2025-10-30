@@ -36,7 +36,7 @@ To build `sokoban-rs`, type the following commands:
 
 ## How to Play
 
-This game is released without any level. You can download level collections from <http://www.sourcecode.se/sokoban/levels> in the SLC (XML) format. For a quick start, try this:
+This game is released without any level. You can download level collections from <https://www.sourcecode.se/sokoban/levels.php> in the SLC (XML) format. For a quick start, try this:
 
     wget http://www.sourcecode.se/sokoban/download/microban.slc
     cargo run --release -- microban.slc
